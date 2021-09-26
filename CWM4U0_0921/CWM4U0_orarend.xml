@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf—8"?>
+
+<orarend>
+    <ora id="1" tipus="Gyakorlat"/>
+		<targy>
+		</targy>
+		<idopont>
+			<nap>
+			</nap>
+			<tol>
+			</tol>
+			<ig>
+			</ig>
+		</idopont>
+		<helyszin>
+		</helyszin>
+		<oktato>
+		</oktato>
+		<szak>
+		</szak>
+    </ora>
+</orarend>   
