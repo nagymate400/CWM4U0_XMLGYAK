@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE SZÁ_konyv SYSTEM "CWM4U0_konyv.dtd">
+
+<konyvek>
+	<konyv id="01">
+		<cim>The Witcher</cim>
+		<ev>1986</ev>
+		<kiado>SuperNowa</kiado>
+		<szerzo>Andrzej Sapkowski</szerzo>
+		<absztrakt>fpsgfzpődfsfp</absztrakt>
+	</konyv>
+
+	<konyv id="02">
+		<cim>A Game of Thrones</cim>
+		<ev>1996</ev>
+		<kiado>Bantam Spectra</kiado>
+		<szerzo>George R. R. Martin</szerzo>
+		<absztrakt>fdgsjdfpogjpsdfobpj</absztrakt>
+	</konyv>
+
+	<konyv id="03">
+		<cim>Assasins Creed Renaissance</cim>
+		<ev>2016</ev>
+		<kiado>Fumax</kiado>
+		<szerzo>Oliver Bowden</szerzo>
+		<absztrakt>dsofjopasdijfvopsdapo</absztrakt>
+	</konyv>
+</konyvek>
