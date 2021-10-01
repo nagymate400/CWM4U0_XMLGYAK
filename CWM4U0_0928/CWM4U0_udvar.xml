@@ -1,4 +1,21 @@
-!ELEMENT udvar (gazda?, kutya?, tyuk+, diszno?)> 
+<!DOCTYPE udvar [
+        <!ELEMENT udvar (gazda|kutya|kakas|tyuk|diszno)*>
+        <!ELEMENT gazda (#PCDATA)>
+        <!ATTLIST gazda
+                nev CDATA #REQUIRED>
+        <!ELEMENT kutya (#PCDATA)>
+        <!ATTLIST kutya
+                nev CDATA #REQUIRED>
+        <!ELEMENT kakas (#PCDATA)>
+        <!ATTLIST kakas
+                id CDATA #REQUIRED>
+        <!ELEMENT tyuk (#PCDATA)>
+        <!ATTLIST tyuk
+                ferj CDATA #REQUIRED>
+        <!ELEMENT diszno (#PCDATA)>
+        <!ATTLIST diszno
+                nev CDATA #REQUIRED>
+        ]>
 
 <udvar>
     <gazda nev="Alex"/>
@@ -7,5 +24,5 @@
     <tyuk ferj="szv_ns3_2jb"/>
     <tyuk ferj="szv_ns3_2jb"/>
     <!--<roka/>-->
-    <diszno nev="Józsi"></diszn0>
-</udvar>   
+    <diszno nev="Józsi"></diszno>
+</udvar>
