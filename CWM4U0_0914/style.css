@@ -1,0 +1,41 @@
+body {
+ background-image: url("8JV6Y65-blueprint-wallpaper.jpg");
+ background-color: #cccccc;
+}
+
+.iit {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:30%;
+	height:30%;
+}
+
+.kurzk {
+	width:10%;
+	height:10%;
+	float: right	
+}
+
+table {
+	width:100%;
+	table-layout: fixed;
+	float: auto;
+}
+
+td {
+	text-align: center;
+}
+
+h1, a {
+	color: white;
+	text-decoration: underline;
+}
+h4, li{
+	color: white;
+}
+
+h3 {
+	color: white;
+	font-weight: bold;
+}
