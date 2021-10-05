@@ -4,26 +4,26 @@
 
 <konyvek>
 	<konyv id="01">
-		<cim>The Witcher</cim>
-		<ev>1986</ev>
-		<kiado>SuperNowa</kiado>
-		<szerzo>Andrzej Sapkowski</szerzo>
+		<cim>Adatmenedzsment a kormányzatban 11. SZ. AJÁNLÁS - Miniszterelnöki Hivatal Informatikai Koordinációs Iroda</cim>
+		<ev>1996</ev>
+		<kiado>Miniszterelnöki Hivatal Informatikai Koordinációs Iroda</kiado>
+		<szerzo>Miniszterelnöki Hivatal Informatikai Koordinációs Iroda</szerzo>
 		<absztrakt>fpsgfzpődfsfp</absztrakt>
 	</konyv>
 
 	<konyv id="02">
-		<cim>A Game of Thrones</cim>
-		<ev>1996</ev>
-		<kiado>Bantam Spectra</kiado>
-		<szerzo>George R. R. Martin</szerzo>
+		<cim>Térítéses információ szolgáltatás – A siker titka</cim>
+		<ev>1998</ev>
+		<kiado>Bagolyfészek Antikvárium</kiado>
+		<szerzo>Irene Wormell</szerzo>
 		<absztrakt>fdgsjdfpogjpsdfobpj</absztrakt>
 	</konyv>
 
 	<konyv id="03">
-		<cim>Assasins Creed Renaissance</cim>
-		<ev>2016</ev>
-		<kiado>Fumax</kiado>
-		<szerzo>Oliver Bowden</szerzo>
+		<cim>Szervezéselméleti alapok és a korszerű szervezéstechnikai eszközök alkalmazása</cim>
+		<ev>1969</ev>
+		<kiado>Szentendre Antikvárium</kiado>
+		<szerzo>Dr. Palicz András</szerzo>
 		<absztrakt>dsofjopasdijfvopsdapo</absztrakt>
 	</konyv>
 </konyvek>
