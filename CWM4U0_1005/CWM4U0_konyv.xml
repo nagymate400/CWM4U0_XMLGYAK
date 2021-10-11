@@ -2,7 +2,7 @@
 
 <!DOCTYPE konyvek SYSTEM "CWM4U0_konyv.dtd">
 
-<<konyvek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CWM4U0_konyv.xsd">
+<konyvek>
 	<konyv id="k01">
 		<cim>Adatmenedzsment a kormányzatban 11. SZ. AJÁNLÁS - Miniszterelnöki Hivatal Informatikai Koordinációs Iroda</cim>
 		<ev>1996</ev>

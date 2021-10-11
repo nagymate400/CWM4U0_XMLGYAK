@@ -3,7 +3,7 @@
 <!-- <!DOCTYPE mozi SYSTEM "mozi.dtd"> -->
 
 <mozi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:noNamespaceSchemaLocation="mozi.xsd">
+        xsi:noNamespaceSchemaLocation="CWM4U0_mozi.xsd">
     <film id="1" mufaj="horror">
         <rendezo id="1" nev="alex"/>
         <rendezo id="2" nev="alex"/>
