@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<nevjegykartyak xsi:noNamespaceSchemaLocation="SchB_nevjegykartya.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <nevjegykartya>
+        <nev>Nagy Máté</nev>
+        <ceg>
+            <nev>Bosch</nev>
+            <cim>
+                <iranyitoszam>3526</iranyitoszam>
+                <varos>Miskolc</varos>
+                <utca>Robert Bosch Park</utca>
+                <hazszam>3</hazszam>
+            </cim>
+            <telefonszam>+36 (46) 518 300</telefonszam>
+            <weblap>https://www.bosch.hu/</weblap>
+        </ceg>
+        <beosztas>Programozó</beosztas>
+        <telefonszam>+36 (70) 423 231</telefonszam>
+        <email>nagymate@gmail.com</email>
+    </nevjegykartya>
+
+    <nevjegykartya>
+        <nev>Horváth László</nev>
+        <ceg>
+            <nev>JABIL Circuit Hungary Kft</nev>
+            <cim>
+                <iranyitoszam>3580</iranyitoszam>
+                <varos>Tiszaújváros</varos>
+                <utca>Huszár Andor út</utca>
+                <hazszam>1</hazszam>
+            </cim>
+            <telefonszam>+36 (49) 548 500</telefonszam>
+            <weblap>https://www.jabil.com/</weblap>
+        </ceg>
+        <beosztas>Munkás</beosztas>
+        <telefonszam>+36 (30) 3531-86541</telefonszam>
+        <email>horvathlaszlo@gmail.com</email>
+    </nevjegykartya>
+</nevjegykartyak>
