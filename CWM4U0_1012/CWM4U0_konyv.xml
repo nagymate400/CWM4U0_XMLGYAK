@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<konyvek xsi:noNamespaceSchemaLocation="SchB_konyv1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <konyv isbn="0462726935">
+        <cim>Trónok harca</cim>
+        <szerzo>George R. R. Martin</szerzo>
+        <szereplo>
+            <nev>Tyrion</nev>
+            <baratja>Bronn</baratja>
+            <szuletett>265 AC</szuletett>
+            <jellemzes>Felbérelt harcos volt Bronn akivel végül jó barátságot kötöttek.</jellemzes>
+        </szereplo>
+        <szereplo>
+            <nev>Havas Jon</nev>
+            <baratja>Eddison Tollett</baratja>
+            <szuletett>302 AC</szuletett>
+            <jellemzes>A fall legnagyobb védelmezője.</jellemzes>
+        </szereplo>
+    </konyv>
+</konyvek>
