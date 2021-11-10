@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+    <student id="01">
+        <keresztnev>Máté</keresztnev>
+        <vezeteknev>Nagy</vezeteknev>
+        <becenev>Sas</becenev>
+        <kor>24</kor>
+    </student>
+    <student id="02">
+        <keresztnev>Bence</keresztnev>
+        <vezeteknev>Scmidt</vezeteknev>
+        <becenev>Big Benc</becenev>
+        <kor>24</kor>
+    </student>
+    <student id="03">
+        <keresztnev>Gábor</keresztnev>
+        <vezeteknev>Baranyi</vezeteknev>
+        <becenev>Gabesz</becenev>
+        <kor>21</kor>
+    </student>
+</class>
