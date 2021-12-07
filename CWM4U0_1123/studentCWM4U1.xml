@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type= "text/xsl" href="studentD1HKJZ.xsl"?>
+<class>
+    <student id="01">
+        <vezeteknev>Schmidt</vezeteknev>
+        <keresztnev>Bence</keresztnev>
+        <becenev>Bencus</becenev>
+        <kor>24</kor>
+        <fizetes>600000</fizetes>
+    </student>
+    <student id="02">
+        <vezeteknev>Nagy</vezeteknev>
+        <keresztnev>Mate</keresztnev>
+        <becenev>Mate</becenev>
+        <kor>23</kor>
+        <fizetes>500000</fizetes>
+    </student>
+    <student id="03">
+        <vezeteknev>Baranyai</vezeteknev>
+        <keresztnev>Gabor</keresztnev>
+        <becenev>Gabesz</becenev>
+        <kor>21</kor>
+        <fizetes>400000</fizetes>
+    </student>
+</class>

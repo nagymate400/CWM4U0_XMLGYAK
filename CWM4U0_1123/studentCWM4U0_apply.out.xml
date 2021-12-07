@@ -1,0 +1,51 @@
+<html>
+    <body>
+        <h2>XY apple- template</h2>
+            
+        <p>
+                    Id: <span style="color:#00FF00">01</span>
+            <br>
+                    Vezeteknev: <span style="color:#00FF00">Schmidt</span>
+            <br>
+                    Keresztnev: <span style="color:#0000FF">Bence</span>
+            <br>
+                    Vezeteknev: <span style="color:#FF0000">Bencus</span>
+            <br>
+                    Kor: <span style="color:#00FF00">24</span>
+            <br>
+                    Fizet&eacute;s: <span style="color:#00FF00">600000</span>
+            <br>
+        </p>
+            
+        <p>
+                    Id: <span style="color:#00FF00">02</span>
+            <br>
+                    Vezeteknev: <span style="color:#00FF00">Nagy</span>
+            <br>
+                    Keresztnev: <span style="color:#0000FF">Mate</span>
+            <br>
+                    Vezeteknev: <span style="color:#FF0000">Mate</span>
+            <br>
+                    Kor: <span style="color:#00FF00">23</span>
+            <br>
+                    Fizet&eacute;s: <span style="color:#00FF00">500000</span>
+            <br>
+        </p>
+            
+        <p>
+                    Id: <span style="color:#00FF00">03</span>
+            <br>
+                    Vezeteknev: <span style="color:#00FF00">Baranyai</span>
+            <br>
+                    Keresztnev: <span style="color:#0000FF">Gabor</span>
+            <br>
+                    Vezeteknev: <span style="color:#FF0000">Gabesz</span>
+            <br>
+                    Kor: <span style="color:#00FF00">21</span>
+            <br>
+                    Fizet&eacute;s: <span style="color:#00FF00">400000</span>
+            <br>
+        </p>
+        
+    </body>
+</html>
